@@ -175,5 +175,10 @@ body {
 .team .box h4 {
   background-color: var(--green-color);
 }
-
 /* end  team */
+
+/* start proj */
+.proj{
+  background-color: var(--dark-color);
+}
+/* end proj */
